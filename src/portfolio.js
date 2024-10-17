@@ -210,7 +210,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "Fun projects I made to practice coding. Currently revamping my portfolio and reworking of my porjects so some might be online or have features not working",
+  subtitle: "Fun projects I made to practice coding. Currently revamping my portfolio and reworking my projects so some might be not be online or have features not working",
   projects: [
     {
       image: require("./assets/images/farinacci-fitness.png"),
