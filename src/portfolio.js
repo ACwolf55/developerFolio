@@ -272,7 +272,7 @@ const bigProjects = {
     {
       image: require("./assets/images/myvcf.png"),
       projectName: "MyVcf",
-      projectDesc: "A B2B project I created for Barngrover LLC. The Full Project was scrapped, but this one still works. Made with React, Express, and MongoDB. Uses Cloudinary to let users upload images and React Router to give users there own profile page.",
+      projectDesc: "A B2B project I created for Barngrover LLC. The full project was discontinued, but this one still works. Made with React, Express, and MongoDB. Uses Cloudinary to let users upload images and React Router to give users there own profile page.",
       footerLink: [
         {
           name: "Visit Site",
