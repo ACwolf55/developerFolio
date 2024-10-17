@@ -210,7 +210,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "Fun projects I made to practice coding",
+  subtitle: "Fun projects I made to practice coding. Currently revamping my portfolio and reworking of my porjects so some might be online or have features not working",
   projects: [
     {
       image: require("./assets/images/farinacci-fitness.png"),
@@ -261,14 +261,25 @@ const bigProjects = {
     {
       image: require("./assets/images/dawg-sports3.png"),
       projectName: "Dawg Sports",
-      projectDesc: "Implemented multi-page sports site with vanilla JS and CSS; highlights early development experience crafting responsive, interactive front-ends with HTML, CSS, and JavaScript fundamentals.",
+      projectDesc: "Orginally a vanilla js project, but currently remaking with Vue & Tailwind and adding a Java Springboot server in the future.",
       footerLink: [
         {
           name: "Visit Site",
           url: "https://dawgsports.xyz/"
         }
       ]
-    }
+    },
+    {
+      image: require("./assets/images/myvcf.png"),
+      projectName: "MyVcf",
+      projectDesc: "A B2B project I created for Barngrover LLC. The Full Project was scrapped, but this one still works. Made with React, Express, and MongoDB. Uses Cloudinary to let users upload images and React Router to give users there own profile page.",
+      footerLink: [
+        {
+          name: "Visit Site",
+          url: "https://myvcf.lol"
+        }
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
