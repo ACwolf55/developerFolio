@@ -213,7 +213,7 @@ const bigProjects = {
   subtitle: "Fun projects I made to practice coding. Currently revamping my portfolio and reworking my projects so some might be not be online or have features not working",
   projects: [
     {
-      image: require("./assets/images/farinacci-fitness.png"),
+      image: require("./assets/images/farinaccifitness2025.png"),
       projectName: "Farinacci Fitness",
       projectDesc: "Freelance project; Crafted modern, responsive website for local personal trainer using Next.js, and TailwindCSS; highlights front-end development skills through clean UI/UX design.",
       footerLink: [
@@ -250,7 +250,7 @@ const bigProjects = {
     {
       image: require("./assets/images/pkm-scrn.png"),
       projectName: "Pokemon Team Builder",
-      projectDesc: "Developed Pokemon team management app with React frontend consuming external PokeAPI data and integrating Supabase for data storage; demonstrates React skills and effectively leveraging third-party APIs",
+      projectDesc: "A full-stack Pokémon team builder with a React frontend. The backend is being reimplemented into Java / SpringBoot (originally Node.js/Express) Not working right now",
       footerLink: [
         {
           name: "Visit Site",
@@ -259,7 +259,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/dawg-sports3.png"),
+      image: require("./assets/images/dawgsports2025.png"),
       projectName: "Dawg Sports",
       projectDesc: "Orginally a vanilla js project, but currently remaking with Vue & Tailwind and adding a Java Springboot server in the future.",
       footerLink: [
@@ -276,7 +276,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Site",
-          url: "https://myvcf.lol"
+          url: "https://www.myvcf.xyz"
         }
       ]
     },
